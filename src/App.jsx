@@ -42,7 +42,7 @@ function App() {
       </h2>
       <Search></Search>
       <List></List>
-      
+      <List></List>
     </div>
   );
 }
